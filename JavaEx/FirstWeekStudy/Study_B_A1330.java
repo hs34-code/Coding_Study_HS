@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// 두 수 비교하기
+
 public class Study_B_A1330 {
     public static void main(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -23,6 +25,6 @@ public class Study_B_A1330 {
         }catch (IOException e){
             e.printStackTrace();
         }
-        
+
     } //main
 } //class
